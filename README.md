@@ -9,10 +9,10 @@ Here are some programming languages I've built projects with:
 - Lua
 - LuaU
 - JavaScript (mostly HTML & CSS, but not always!)
-- Typerscript
+- Typescript
 - AutoIt
 - GDScript
 - Bash
 - PowerShell
 
-In the future i want to make some more projects with Java
+In the future I want to make some more projects with Java
