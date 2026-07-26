@@ -7,5 +7,12 @@ Here are some programming languages I've built projects with:
 - Python
 - C#
 - Lua
+- LuaU
 - JavaScript (mostly HTML & CSS, but not always!)
+- Typerscript
 - AutoIt
+- GDScript
+- Bash
+- PowerShell
+
+In the future i want to make some more projects with Java
