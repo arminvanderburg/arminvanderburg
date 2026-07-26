@@ -15,4 +15,4 @@ Here are some programming languages I've built projects with:
 - Bash
 - PowerShell
 
-In the future I want to make some more projects with Java
+In the future I want to make some more projects with Java.
