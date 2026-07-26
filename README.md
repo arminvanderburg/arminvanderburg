@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-I am Armin, i'm from the netherlands and i program, small and fun projects in my free time for fun. i will post some of them on github. here are some programming languages i've done some projects with:
+I am Armin, I'm from the Netherlands and I program small and fun projects in my free time. I post some of them here on GitHub! 
+
+Here are some programming languages I've built projects with:
 
 - Python
 - C#
-- LUAU
-- JAVASCRIPT (most projects with HTML & CSS but not all of them)
-- AutoIT
+- Lua
+- JavaScript (mostly HTML & CSS, but not always!)
+- AutoIt
