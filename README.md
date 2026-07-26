@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-<!--
-**arminvanderburg/arminvanderburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Armin, i'm from the netherlands and i program, small and fun projects in my free time for fun. i will post some of them on github. here are some programming languages i've done some projects with:
 
-Here are some ideas to get you started:
+• Python
+• C#
+• LUAU
+• JAVASCRIPT (most projects with HTML & CSS but not all of them)
+• AutoIT
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
