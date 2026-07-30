@@ -2,7 +2,9 @@
 
 I am Armin, I'm from the Netherlands and I program small and fun projects in my free time. I use GitHub to share, manage and host my projects.
 
-Here are some programming languages I've built projects with:
+I am currently working on multiple types pf physics simulators.
+
+<!-- Here are some programming languages I've built projects with:
 
 - Python
 - C#
@@ -15,4 +17,4 @@ Here are some programming languages I've built projects with:
 - Bash
 - PowerShell
 
-In the future I want to make some more projects with Java.
+In the future I want to make some more projects with Java. -->
