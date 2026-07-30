@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Armin, I'm from the Netherlands and I program small and fun projects in my free time. I post some of them here on GitHub! 
+I am Armin, I'm from the Netherlands and I program small and fun projects in my free time. I use GitHub to share, manage and host my projects.
 
 Here are some programming languages I've built projects with:
 
